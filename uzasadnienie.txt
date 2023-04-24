@@ -1,0 +1,1 @@
+Używam kolekcji ArrayList, ponieważ uważam ją za najwygodniejszą, oraz najłatwiejszą w obsłudze oraz mogą się tam powtarzać dane.
